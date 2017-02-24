@@ -1,0 +1,42 @@
+/* 
+    Created on : 24/02/2017, 10:38:54
+    Author     : gustavoweb
+    UPINSIDE TECNOLOGIA
+*/
+*{
+    font-family: Arial, sans-serif;
+}
+
+.blue{
+    background: #0E96E5; 
+    border-left: 10px solid #096397; 
+}
+
+.red{
+    background: #FF524F; 
+    border-left: 10px solid #C63D3A; 
+}
+
+.yellow{
+    background: #FABB3D; 
+    border-left: 10px solid #EEA306; 
+}
+
+fieldset{
+    margin-top: 10px; 
+    border: 1px solid #CCC;
+}
+
+legend{
+    padding: 2px 3px; 
+    font-weight: 400;
+}
+
+p{
+    padding: 4px 0; 
+    margin: 0; 
+    font-size: 0.875em; 
+    font-weight: 300;
+    padding-left: 10px; 
+    color: #FFF; 
+}
